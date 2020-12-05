@@ -1,1 +1,3 @@
-# img-compression
+﻿Оптимизация картинок
+1. yarn
+2. gulp
